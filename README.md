@@ -1,5 +1,5 @@
 # EasyByts_Final_Task  
-## Event Management System  
+## Event Management System (EventSync)
 
 ### 📌 Project Overview  
 The **Event Management System** is a web application that allows users to browse, book, and manage event registrations. It includes user authentication, event listings, Cloudinary-based image uploads, and an admin panel for event management.  
