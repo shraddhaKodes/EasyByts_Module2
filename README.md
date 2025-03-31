@@ -2,7 +2,7 @@
 ## Event Management System  
 
 ### 📌 Project Overview  
-The **Event Management System** is a web application that allows users to browse, book, and manage event registrations. It includes user authentication, event listings, Cloudinary-based image uploads, and an admin panel for event management.  
+The **Event Management System** is a web application that allows users to browse, book, and manage event registrations. It includes user authentication, event listings, Cloudinary-based image uploads, and an dashboard page  for user  event management.  
 
 ### 🚀 Tech Stack  
 - **Frontend:** React.js, Tailwind CSS  
